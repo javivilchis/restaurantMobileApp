@@ -1,6 +1,8 @@
 ## Restaurant Mobile App
 
 ![Healthy Spoon Logo](./images/healthy-spoon-logo.png)
+
+The name give to this restaurant mobile app is  the Healthy Spoon. 
 The Restaurant Mobile app is to be used to keep your choices healthy when it comes to choosing where to eat. It serves as a health advisor to guide you into a healthier lifestyle.
 
 ## How to run this app
